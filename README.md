@@ -39,5 +39,5 @@ Pretrained ADDL networks and additional test data are available at:
 
 👉 [Google Drive - ADDL Resources](https://drive.google.com/drive/folders/1GkizZg6Qgszza4yq0NN3csjsCeYWi2Mb?usp=drive_link)
 
-* Please place the file `checkpoint/net.pth' in folder [`utils/checkpoint`](./utils/checkpoint).
+* Please place the file `checkpoint/net.pth` in folder [`utils/checkpoint`](./utils/checkpoint).
 * Generate your own sampling patterns via `gen_mask.m`.
